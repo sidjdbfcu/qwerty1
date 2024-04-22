@@ -1,0 +1,5 @@
+1. For database we use 1433 port.
+2. To link a site on the continent using the nginx web server, you need to pen ports 80(HTTP) and 443(HTTPS) on the firewall
+
+
+
